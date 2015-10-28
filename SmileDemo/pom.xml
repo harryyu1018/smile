@@ -51,6 +51,16 @@
         </dependency>
         <dependency>
             <groupId>com.github.haifengl</groupId>
+            <artifactId>smile-interpolation</artifactId>
+            <version>1.0.3</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.haifengl</groupId>
+            <artifactId>smile-data</artifactId>
+            <version>1.0.3</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.haifengl</groupId>
             <artifactId>smile-plot</artifactId>
             <version>1.0.3</version>
         </dependency>

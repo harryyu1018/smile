@@ -1,7 +1,7 @@
 *.class
 
 # Demo program
-SmileDemo/src/main/resources
+# SmileDemo/src/main/resources(将数据资源放入其中)
 SmileTestData
 
 # javadoc

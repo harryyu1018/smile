@@ -51,6 +51,7 @@
         <module>Smile</module>
         <module>SmileNLP</module>
         <module>SmilePlot</module>
+        <module>SmileDemo</module>
     </modules>
     
     <distributionManagement>
